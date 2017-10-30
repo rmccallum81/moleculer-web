@@ -59,6 +59,9 @@
     "path-to-regexp": "1.7.0",
     "serve-static": "1.13.1"
   },
+  "optionalDependencies": {
+    "@types/serve-static": "1.13.0"
+  },
   "engines": {
     "node": ">= 6.x.x"
   },
